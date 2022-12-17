@@ -1,0 +1,46 @@
+
+    
+
+div{
+    width: 80%;
+    background-image: url(Img/textura-madera-en-negro_2560x1600_xtrafondos.com.jpg);
+    margin-left: auto;
+    margin-right: auto;
+
+  
+}
+
+
+body{
+    text-align: left;
+    color: azure;
+    background-color: #17202A  ;
+}
+h2,p{
+    margin-left: 11%;
+    margin-top: 10px;
+}
+
+h1,h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+.buger,.pizza{
+    text-align: left;
+    width: 16%;
+}
+.price{
+    text-align: right;
+    width: 10%;
+}
+.Item p{
+    display:inline-block;
+}
+img{
+  float: right;
+  margin-right: 10%;
+}
+
