@@ -2,5 +2,5 @@
 
 
 
-<img src="Miniatura Buger 1.PNG">
+<img src="/Miniatura Buger 2.PNG">
 
